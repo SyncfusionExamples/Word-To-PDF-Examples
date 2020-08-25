@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using System;
 using System.IO;
 
-namespace ConsoleApp1
+namespace Console_App_.NET_Core
 {
     class Program
     {
