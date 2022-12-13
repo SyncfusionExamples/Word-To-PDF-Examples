@@ -1,10 +1,10 @@
 # Word to PDF examples
 
-This repository contains examples that illustrates how to convert Word documents to PDF in C# and VB.NET using [Syncfusion Word to PDF converter](https://www.syncfusion.com/word-framework/net/word-to-PDF-conversion?utm_source=github&utm_medium=listing&utm_campaign=word-to-pdf-examples) without Microsoft Word or Office interop dependencies.
+This repository contains examples that illustrates how to convert Word documents to PDF in C# and VB.NET using [Syncfusion Word to PDF converter](https://www.syncfusion.com/document-processing/word-framework/net/word-to-pdf-conversion?utm_source=github&utm_medium=listing&utm_campaign=word-to-pdf-examples) without Microsoft Word or Office interop dependencies.
 
 # Resources
 
-- **Product page:** [Syncfusion Word to PDF converter](https://www.syncfusion.com/word-framework/net/word-to-PDF-conversion?utm_source=github&utm_medium=listing&utm_campaign=word-to-pdf-examples)
+- **Product page:** [Syncfusion Word to PDF converter](https://www.syncfusion.com/document-processing/word-framework/net/word-to-pdf-conversion?utm_source=github&utm_medium=listing&utm_campaign=word-to-pdf-examples)
 
 - **Documentation:** [Convert Word document to PDF using Syncfusion Word to PDF converter](https://help.syncfusion.com/file-formats/docio/word-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=word-to-pdf-examples)
 
